@@ -2,12 +2,12 @@ const MongoClient = require('mongodb').MongoClient;
 const fs = require('fs');
 // Connect to MongoDB Atlas
 // Read MongoDB password from environment variable
-const mongoPassword = process.env.MONGODB_PASSWORD;
-const mongoUsername = process.env.MONGODB_USERNAME;
-// Construct MongoDB connection string
-// Construct MongoDB connection string
-const mongodbServer=`cluster0.1camoym.mongodb.net`
-const mongoUri = `mongodb+srv://${mongoUsername}:${mongoPassword}@${mongodbServer}/`;
+// const mongoPassword = "devopsfarmer";
+// const mongoUsername = "vpbNTxeBGqnCbaAW";
+// // Construct MongoDB connection string
+// // Construct MongoDB connection string
+// const mongodbServer=`learning.wqkjhxa.mongodb.net`
+const mongoUri = `mongodb+srv://devopsfarmer:vpbNTxeBGqnCbaAW@learning.wqkjhxa.mongodb.net/`;
     
 const dbName = 'quote_app';
 const collectionName = 'quotes';

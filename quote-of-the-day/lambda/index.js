@@ -24,10 +24,10 @@ exports.handler = async (event, context) => {
     const quotesCollection = db.collection('quotes');
 
     // Get the day of the year
-    const dayOfYear = new Date().getDayOfYear();
+    const dayOfYear = "77";
 
     // Find the quote for the day
-    const quote = await quotesCollection.findOne({ dayOfYear });
+    const quote = await quotesCollection.findOne({ "day": dayOfYear });
 
     // Close MongoDB connection
     client.close();

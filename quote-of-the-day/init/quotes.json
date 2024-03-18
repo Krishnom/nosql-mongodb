@@ -25,43 +25,53 @@
   },
   {
     "quote": "Chef, Puppet, Ansible: Choose your configuration management weapon wisely.",
-    "author": "Arjun Gupta"
+    "author": "Arjun Gupta",
+    "day": 77
   },
   {
     "quote": "Docker: Shipping software has never been easier.",
-    "author": "Diya Patel"
+    "author": "Diya Patel",
+    "day": 78
   },
   {
     "quote": "Kubernetes: The orchestrator of dreams.",
-    "author": "Rohan Sharma"
+    "author": "Rohan Sharma",
+    "day": 79
   },
   {
     "quote": "Jenkins: Automating the mundane so developers can focus on the extraordinary.",
-    "author": "Aaradhya Singh"
+    "author": "Aaradhya Singh",
+    "day": 80
   },
   {
     "quote": "Terraform: Building infrastructure like playing with LEGO blocks.",
-    "author": "Aanya Kapoor"
+    "author": "Aanya Kapoor",
+    "day": 71
   },
   {
     "quote": "Continuous Monitoring: Keeping an eye on things so you don't have to.",
-    "author": "Ishaan Mehta"
+    "author": "Ishaan Mehta",
+    "day": 72
   },
   {
     "quote": "Log Aggregation: Because logs are like breadcrumbs, and we're not lost, just exploring.",
-    "author": "Ananya Sharma"
+    "author": "Ananya Sharma",
+    "day": 73
   },
   {
     "quote": "Grafana: Visualizing data like a boss.",
-    "author": "Kabir Singh"
+    "author": "Kabir Singh",
+    "day": 74
   },
   {
     "quote": "Prometheus: Keeping an eye on your systems before they even know they're sick.",
-    "author": "Aradhya Gupta"
+    "author": "Aradhya Gupta",
+    "day": 75
   },
   {
     "quote": "Splunk: Turning mountains of data into actionable insights.",
-    "author": "Yuvraj Kumar"
+    "author": "Yuvraj Kumar",
+    "day": 76
   },
   {
     "quote": "ELK Stack: Because who doesn't love a good log party?",
